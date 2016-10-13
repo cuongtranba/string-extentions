@@ -3,5 +3,6 @@
     "python.formatting.provider": "autopep8",
     "python.unitTest.unittestEnabled": true,
     "python.unitTest.pyTestEnabled": false,
-    "python.unitTest.nosetestsEnabled": false
+    "python.unitTest.nosetestsEnabled": false,
+    "python.pythonPath": "C:/Python34/python.exe"
 }
